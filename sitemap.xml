@@ -226,22 +226,6 @@
     <xhtml:link rel="alternate" hreflang="en" href="https://penco.app/en/follow/discord/"/>
     <xhtml:link rel="alternate" hreflang="x-default" href="https://penco.app/follow/discord/"/>
   </url>
-  <!-- <url>
-    <loc>https://penco.app/resources/blog/</loc>
-    <lastmod>2024-05-23T08:0:00+00:00</lastmod>
-    <priority>0.7</priority>
-    <xhtml:link rel="alternate" hreflang="fr" href="https://penco.app/fr/resources/blog/"/>
-    <xhtml:link rel="alternate" hreflang="en" href="https://penco.app/en/resources/blog/"/>
-    <xhtml:link rel="alternate" hreflang="x-default" href="https://penco.app/resources/blog/"/>
-  </url> -->
-  <!-- <url>
-    <loc>https://penco.app/resources/community/</loc>
-    <lastmod>2024-05-23T08:0:00+00:00</lastmod>
-    <priority>0.7</priority>
-    <xhtml:link rel="alternate" hreflang="fr" href="https://penco.app/fr/resources/community/"/>
-    <xhtml:link rel="alternate" hreflang="en" href="https://penco.app/en/resources/community/"/>
-    <xhtml:link rel="alternate" hreflang="x-default" href="https://penco.app/resources/community/"/>
-  </url> -->
   <url>
     <loc>https://penco.app/resources/help/</loc>
     <lastmod>2024-05-23T08:0:00+00:00</lastmod>
@@ -330,34 +314,6 @@
     <xhtml:link rel="alternate" hreflang="en" href="https://penco.app/en/solutions/teams/project/"/>
     <xhtml:link rel="alternate" hreflang="x-default" href="https://penco.app/solutions/teams/project/"/>
   </url>
-  <!-- <url>
-    <loc>https://penco.app/fr/404.html</loc>
-    <lastmod>2024-05-23T08:0:00+00:00</lastmod>
-    <priority>0.7</priority>
-    <xhtml:link rel="alternate" hreflang="en" href="https://penco.app/en/404.html"/>
-    <xhtml:link rel="alternate" hreflang="x-default" href="https://penco.app/404.html"/>
-  </url> -->
-  <!-- <url>
-    <loc>https://penco.app/en/404.html</loc>
-    <lastmod>2024-05-23T08:0:00+00:00</lastmod>
-    <priority>0.7</priority>
-    <xhtml:link rel="alternate" hreflang="fr" href="https://penco.app/fr/404.html"/>
-    <xhtml:link rel="alternate" hreflang="x-default" href="https://penco.app/404.html"/>
-  </url> -->
-  <!-- <url>
-    <loc>https://penco.app/fr/404/</loc>
-    <lastmod>2024-05-23T08:0:00+00:00</lastmod>
-    <priority>0.7</priority>
-    <xhtml:link rel="alternate" hreflang="en" href="https://penco.app/en/404/"/>
-    <xhtml:link rel="alternate" hreflang="x-default" href="https://penco.app/404/"/>
-  </url> -->
-  <!-- <url>
-    <loc>https://penco.app/en/404/</loc>
-    <lastmod>2024-05-23T08:0:00+00:00</lastmod>
-    <priority>0.7</priority>
-    <xhtml:link rel="alternate" hreflang="fr" href="https://penco.app/fr/404/"/>
-    <xhtml:link rel="alternate" hreflang="x-default" href="https://penco.app/404/"/>
-  </url> -->
   <url>
     <loc>https://penco.app/fr/ask-for-demo/</loc>
     <lastmod>2024-05-23T08:0:00+00:00</lastmod>
@@ -554,20 +510,6 @@
     <xhtml:link rel="alternate" hreflang="fr" href="https://penco.app/fr/follow/discord/"/>
     <xhtml:link rel="alternate" hreflang="x-default" href="https://penco.app/follow/discord/"/>
   </url>
-  <!-- <url>
-    <loc>https://penco.app/fr/resources/blog/</loc>
-    <lastmod>2024-05-23T08:0:00+00:00</lastmod>
-    <priority>0.4</priority>
-    <xhtml:link rel="alternate" hreflang="en" href="https://penco.app/en/resources/blog/"/>
-    <xhtml:link rel="alternate" hreflang="x-default" href="https://penco.app/resources/blog/"/>
-  </url> -->
-  <!-- <url>
-    <loc>https://penco.app/en/resources/blog/</loc>
-    <lastmod>2024-05-23T08:0:00+00:00</lastmod>
-    <priority>0.7</priority>
-    <xhtml:link rel="alternate" hreflang="fr" href="https://penco.app/fr/resources/blog/"/>
-    <xhtml:link rel="alternate" hreflang="x-default" href="https://penco.app/resources/blog/"/>
-  </url> -->
   <url>
     <loc>https://penco.app/fr/resources/community/</loc>
     <lastmod>2024-05-23T08:0:00+00:00</lastmod>
