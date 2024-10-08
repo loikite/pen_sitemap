@@ -1,0 +1,739 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+        xmlns:news="http://www.google.com/schemas/sitemap-news/0.9"
+        xmlns:xhtml="http://www.w3.org/1999/xhtml"
+        xmlns:image="http://www.google.com/schemas/sitemap-image/1.1"
+        xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://penco.app/fr/resources/blog/page1/</loc>
+    <lastmod>2024-05-23T08:0:00+00:00</lastmod>
+    <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://penco.app/en/resources/blog/page1/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://penco.app/resources/blog/page1/"/>
+  </url>
+  <url>
+    <loc>https://penco.app/en/resources/blog/page1/</loc>
+    <lastmod>2024-05-23T08:0:00+00:00</lastmod>
+    <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://penco.app/fr/resources/blog/page1/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://penco.app/resources/blog/page1/"/>
+  </url>
+  <url>
+    <loc>https://penco.app/resources/blog/page1/</loc>
+    <lastmod>2024-05-23T08:0:00+00:00</lastmod>
+    <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://penco.app/fr/resources/blog/page1/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://penco.app/en/resources/blog/page1/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://penco.app/resources/blog/page1/"/>
+  </url>
+  <url>
+    <loc>https://penco.app/resources/blog/pourquoi-choisir-un-logiciel-Nocode/</loc>
+    <lastmod>2024-06-11T08:0:00+00:00</lastmod>
+    <priority>0.7</priority>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://penco.app/fr/resources/blog/pourquoi-choisir-un-logiciel-Nocode/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://penco.app/en/resources/blog/pourquoi-choisir-un-logiciel-Nocode/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://penco.app/resources/blog/pourquoi-choisir-un-logiciel-Nocode/"/>
+  </url>
+  <url>
+    <loc>https://penco.app/resources/blog/pourquoi-ne-pas-opter-pour-IA/</loc>
+    <lastmod>2024-09-27T08:0:00+00:00</lastmod>
+    <priority>0.7</priority>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://penco.app/fr/resources/blog/pourquoi-ne-pas-opter-pour-IA/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://penco.app/en/resources/blog/pourquoi-ne-pas-opter-pour-IA/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://penco.app/resources/blog/pourquoi-ne-pas-opter-pour-IA/"/>
+  </url>
+  <url>
+    <loc>https://penco.app/resources/blog/why-choose-Nocode-software/</loc>
+    <lastmod>2024-06-11T08:0:00+00:00</lastmod>
+    <priority>0.7</priority>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://penco.app/fr/resources/blog/why-choose-Nocode-software/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://penco.app/en/resources/blog/why-choose-Nocode-software/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://penco.app/resources/blog/why-choose-Nocode-software/"/>
+  </url>
+  <url>
+    <loc>https://penco.app/resources/blog/why-not-opt-for-ai/</loc>
+    <lastmod>2024-09-27T08:0:00+00:00</lastmod>
+    <priority>0.7</priority>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://penco.app/fr/resources/blog/why-not-opt-for-ai/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://penco.app/en/resources/blog/why-not-opt-for-ai/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://penco.app/resources/blog/why-not-opt-for-ai/"/>
+  </url>
+  <url>
+    <loc>https://penco.app/fr/resources/blog/pourquoi-choisir-un-logiciel-Nocode/</loc>
+    <lastmod>2024-06-11T08:0:00+00:00</lastmod>
+    <priority>0.7</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://penco.app/en/resources/blog/pourquoi-choisir-un-logiciel-Nocode/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://penco.app/resources/blog/pourquoi-choisir-un-logiciel-Nocode/"/>
+  </url>
+  <url>
+    <loc>https://penco.app/en/resources/blog/pourquoi-choisir-un-logiciel-Nocode/</loc>
+    <lastmod>2024-06-11T08:0:00+00:00</lastmod>
+    <priority>0.7</priority>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://penco.app/fr/resources/blog/pourquoi-choisir-un-logiciel-Nocode/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://penco.app/resources/blog/pourquoi-choisir-un-logiciel-Nocode/"/>
+  </url>
+  <url>
+    <loc>https://penco.app/fr/resources/blog/pourquoi-ne-pas-opter-pour-IA/</loc>
+    <lastmod>2024-09-27T08:0:00+00:00</lastmod>
+    <priority>0.7</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://penco.app/en/resources/blog/pourquoi-ne-pas-opter-pour-IA/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://penco.app/resources/blog/pourquoi-ne-pas-opter-pour-IA/"/>
+  </url>
+  <url>
+    <loc>https://penco.app/en/resources/blog/pourquoi-ne-pas-opter-pour-IA/</loc>
+    <lastmod>2024-09-27T08:0:00+00:00</lastmod>
+    <priority>0.7</priority>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://penco.app/fr/resources/blog/pourquoi-ne-pas-opter-pour-IA/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://penco.app/resources/blog/pourquoi-ne-pas-opter-pour-IA/"/>
+  </url>
+  <url>
+    <loc>https://penco.app/fr/resources/blog/why-choose-Nocode-software/</loc>
+    <lastmod>2024-06-11T08:0:00+00:00</lastmod>
+    <priority>0.7</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://penco.app/en/resources/blog/why-choose-Nocode-software/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://penco.app/resources/blog/why-choose-Nocode-software/"/>
+  </url>
+  <url>
+    <loc>https://penco.app/en/resources/blog/why-choose-Nocode-software/</loc>
+    <lastmod>2024-05-23T08:0:00+00:00</lastmod>
+    <priority>0.7</priority>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://penco.app/fr/resources/blog/why-choose-Nocode-software/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://penco.app/resources/blog/why-choose-Nocode-software/"/>
+  </url>
+  <url>
+    <loc>https://penco.app/fr/resources/blog/why-not-opt-for-ai/</loc>
+    <lastmod>2024-09-27T08:0:00+00:00</lastmod>
+    <priority>0.7</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://penco.app/en/resources/blog/why-not-opt-for-ai/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://penco.app/resources/blog/why-not-opt-for-ai/"/>
+  </url>
+  <url>
+    <loc>https://penco.app/en/resources/blog/why-not-opt-for-ai/</loc>
+    <lastmod>2024-09-27T08:0:00+00:00</lastmod>
+    <priority>0.7</priority>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://penco.app/fr/resources/blog/why-not-opt-for-ai/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://penco.app/resources/blog/why-not-opt-for-ai/"/>
+  </url>
+  <url>
+    <loc>https://penco.app/ask-for-demo/</loc>
+    <lastmod>2024-05-23T08:0:00+00:00</lastmod>
+    <priority>0.4</priority>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://penco.app/fr/ask-for-demo/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://penco.app/en/ask-for-demo/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://penco.app/ask-for-demo/"/>
+  </url>
+  <url>
+    <loc>https://penco.app/contact/</loc>
+    <lastmod>2024-05-23T08:0:00+00:00</lastmod>
+    <priority>0.5</priority>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://penco.app/fr/contact/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://penco.app/en/contact/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://penco.app/contact/"/>
+  </url>
+  <url>
+    <loc>https://penco.app/</loc>
+    <lastmod>2024-05-23T08:0:00+00:00</lastmod>
+    <priority>1</priority>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://penco.app/fr/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://penco.app/en/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://penco.app/"/>
+  </url>
+  <url>
+    <loc>https://penco.app/pricing/</loc>
+    <lastmod>2024-05-23T08:0:00+00:00</lastmod>
+    <priority>0.4</priority>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://penco.app/fr/pricing/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://penco.app/en/pricing/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://penco.app/pricing/"/>
+  </url>
+  <url>
+    <loc>https://penco.app/product/</loc>
+    <lastmod>2024-05-23T08:0:00+00:00</lastmod>
+    <priority>1</priority>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://penco.app/fr/product/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://penco.app/en/product/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://penco.app/product/"/>
+  </url>
+  <url>
+    <loc>https://penco.app/resources/</loc>
+    <lastmod>2024-05-23T08:0:00+00:00</lastmod>
+    <priority>1</priority>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://penco.app/fr/resources/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://penco.app/en/resources/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://penco.app/resources/"/>
+  </url>
+  <url>
+    <loc>https://penco.app/solutions/</loc>
+    <lastmod>2024-05-23T08:0:00+00:00</lastmod>
+    <priority>1</priority>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://penco.app/fr/solutions/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://penco.app/en/solutions/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://penco.app/solutions/"/>
+  </url>
+  <url>
+    <loc>https://penco.app/thankyou/</loc>
+    <lastmod>2024-05-23T08:0:00+00:00</lastmod>
+    <priority>0.4</priority>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://penco.app/fr/thankyou/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://penco.app/en/thankyou/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://penco.app/thankyou/"/>
+  </url>
+  <url>
+    <loc>https://penco.app/about/confidentiality/</loc>
+    <lastmod>2024-05-23T08:0:00+00:00</lastmod>
+    <priority>0.4</priority>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://penco.app/fr/about/confidentiality/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://penco.app/en/about/confidentiality/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://penco.app/about/confidentiality/"/>
+  </url>
+  <url>
+    <loc>https://penco.app/about/cookies/</loc>
+    <lastmod>2024-05-23T08:0:00+00:00</lastmod>
+    <priority>0.4</priority>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://penco.app/fr/about/cookies/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://penco.app/en/about/cookies/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://penco.app/about/cookies/"/>
+  </url>
+  <url>
+    <loc>https://penco.app/about/legal/</loc>
+    <lastmod>2024-05-23T08:0:00+00:00</lastmod>
+    <priority>0.4</priority>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://penco.app/fr/about/legal/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://penco.app/en/about/legal/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://penco.app/about/legal/"/>
+  </url>
+  <url>
+    <loc>https://penco.app/about/security/</loc>
+    <lastmod>2024-05-23T08:0:00+00:00</lastmod>
+    <priority>0.4</priority>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://penco.app/fr/about/security/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://penco.app/en/about/security/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://penco.app/about/security/"/>
+  </url>
+  <url>
+    <loc>https://penco.app/about/terms/</loc>
+    <lastmod>2024-05-23T08:0:00+00:00</lastmod>
+    <priority>0.4</priority>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://penco.app/fr/about/terms/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://penco.app/en/about/terms/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://penco.app/about/terms/"/>
+  </url>
+  <url>
+    <loc>https://penco.app/follow/discord/</loc>
+    <lastmod>2024-05-23T08:0:00+00:00</lastmod>
+    <priority>0.4</priority>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://penco.app/fr/follow/discord/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://penco.app/en/follow/discord/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://penco.app/follow/discord/"/>
+  </url>
+  <!-- <url>
+    <loc>https://penco.app/resources/blog/</loc>
+    <lastmod>2024-05-23T08:0:00+00:00</lastmod>
+    <priority>0.7</priority>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://penco.app/fr/resources/blog/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://penco.app/en/resources/blog/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://penco.app/resources/blog/"/>
+  </url> -->
+  <!-- <url>
+    <loc>https://penco.app/resources/community/</loc>
+    <lastmod>2024-05-23T08:0:00+00:00</lastmod>
+    <priority>0.7</priority>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://penco.app/fr/resources/community/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://penco.app/en/resources/community/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://penco.app/resources/community/"/>
+  </url> -->
+  <url>
+    <loc>https://penco.app/resources/help/</loc>
+    <lastmod>2024-05-23T08:0:00+00:00</lastmod>
+    <priority>0.5</priority>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://penco.app/fr/resources/help/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://penco.app/en/resources/help/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://penco.app/resources/help/"/>
+  </url>
+  <url>
+    <loc>https://penco.app/resources/partners/</loc>
+    <lastmod>2024-05-23T08:0:00+00:00</lastmod>
+    <priority>0.5</priority>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://penco.app/fr/resources/partners/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://penco.app/en/resources/partners/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://penco.app/resources/partners/"/>
+  </url>
+  <url>
+    <loc>https://penco.app/resources/partnership/</loc>
+    <lastmod>2024-05-23T08:0:00+00:00</lastmod>
+    <priority>0.5</priority>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://penco.app/fr/resources/partnership/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://penco.app/en/resources/partnership/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://penco.app/resources/partnership/"/>
+  </url>
+  <url>
+    <loc>https://penco.app/solutions/teams/</loc>
+    <lastmod>2024-05-23T08:0:00+00:00</lastmod>
+    <priority>0.5</priority>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://penco.app/fr/solutions/teams/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://penco.app/en/solutions/teams/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://penco.app/solutions/teams/"/>
+  </url>
+  <url>
+    <loc>https://penco.app/subscription/policies/</loc>
+    <lastmod>2024-05-23T08:0:00+00:00</lastmod>
+    <priority>0.4</priority>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://penco.app/fr/subscription/policies/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://penco.app/en/subscription/policies/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://penco.app/subscription/policies/"/>
+  </url>
+  <url>
+    <loc>https://penco.app/subscription/terms/</loc>
+    <lastmod>2024-05-23T08:0:00+00:00</lastmod>
+    <priority>0.4</priority>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://penco.app/fr/subscription/terms/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://penco.app/en/subscription/terms/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://penco.app/subscription/terms/"/>
+  </url>
+  <url>
+    <loc>https://penco.app/solutions/teams/hr/</loc>
+    <lastmod>2024-05-23T08:0:00+00:00</lastmod>
+    <priority>0.7</priority>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://penco.app/fr/solutions/teams/hr/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://penco.app/en/solutions/teams/hr/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://penco.app/solutions/teams/hr/"/>
+  </url>
+  <url>
+    <loc>https://penco.app/solutions/teams/it/</loc>
+    <lastmod>2024-05-23T08:0:00+00:00</lastmod>
+    <priority>0.7</priority>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://penco.app/fr/solutions/teams/it/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://penco.app/en/solutions/teams/it/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://penco.app/solutions/teams/it/"/>
+  </url>
+  <url>
+    <loc>https://penco.app/solutions/teams/operation/</loc>
+    <lastmod>2024-05-23T08:0:00+00:00</lastmod>
+    <priority>0.7</priority>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://penco.app/fr/solutions/teams/operation/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://penco.app/en/solutions/teams/operation/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://penco.app/solutions/teams/operation/"/>
+  </url>
+  <url>
+    <loc>https://penco.app/solutions/teams/other/</loc>
+    <lastmod>2024-05-23T08:0:00+00:00</lastmod>
+    <priority>0.7</priority>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://penco.app/fr/solutions/teams/other/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://penco.app/en/solutions/teams/other/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://penco.app/solutions/teams/other/"/>
+  </url>
+  <url>
+    <loc>https://penco.app/solutions/teams/project/</loc>
+    <lastmod>2024-05-23T08:0:00+00:00</lastmod>
+    <priority>0.7</priority>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://penco.app/fr/solutions/teams/project/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://penco.app/en/solutions/teams/project/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://penco.app/solutions/teams/project/"/>
+  </url>
+  <!-- <url>
+    <loc>https://penco.app/fr/404.html</loc>
+    <lastmod>2024-05-23T08:0:00+00:00</lastmod>
+    <priority>0.7</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://penco.app/en/404.html"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://penco.app/404.html"/>
+  </url> -->
+  <!-- <url>
+    <loc>https://penco.app/en/404.html</loc>
+    <lastmod>2024-05-23T08:0:00+00:00</lastmod>
+    <priority>0.7</priority>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://penco.app/fr/404.html"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://penco.app/404.html"/>
+  </url> -->
+  <!-- <url>
+    <loc>https://penco.app/fr/404/</loc>
+    <lastmod>2024-05-23T08:0:00+00:00</lastmod>
+    <priority>0.7</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://penco.app/en/404/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://penco.app/404/"/>
+  </url> -->
+  <!-- <url>
+    <loc>https://penco.app/en/404/</loc>
+    <lastmod>2024-05-23T08:0:00+00:00</lastmod>
+    <priority>0.7</priority>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://penco.app/fr/404/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://penco.app/404/"/>
+  </url> -->
+  <url>
+    <loc>https://penco.app/fr/ask-for-demo/</loc>
+    <lastmod>2024-05-23T08:0:00+00:00</lastmod>
+    <priority>0.4</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://penco.app/en/ask-for-demo/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://penco.app/ask-for-demo/"/>
+  </url>
+  <url>
+    <loc>https://penco.app/en/ask-for-demo/</loc>
+    <lastmod>2024-05-23T08:0:00+00:00</lastmod>
+    <priority>0.4</priority>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://penco.app/fr/ask-for-demo/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://penco.app/ask-for-demo/"/>
+  </url>
+  <url>
+    <loc>https://penco.app/fr/contact/</loc>
+    <lastmod>2024-05-23T08:0:00+00:00</lastmod>
+    <priority>0.4</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://penco.app/en/contact/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://penco.app/contact/"/>
+  </url>
+  <url>
+    <loc>https://penco.app/en/contact/</loc>
+    <lastmod>2024-05-23T08:0:00+00:00</lastmod>
+    <priority>0.4</priority>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://penco.app/fr/contact/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://penco.app/contact/"/>
+  </url>
+  <url>
+    <loc>https://penco.app/fr/</loc>
+    <lastmod>2024-05-23T08:0:00+00:00</lastmod>
+    <priority>0.4</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://penco.app/en/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://penco.app/"/>
+  </url>
+  <url>
+    <loc>https://penco.app/en/</loc>
+    <lastmod>2024-05-23T08:0:00+00:00</lastmod>
+    <priority>0.7</priority>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://penco.app/fr/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://penco.app/"/>
+  </url>
+  <url>
+    <loc>https://penco.app/fr/pricing/</loc>
+    <lastmod>2024-05-23T08:0:00+00:00</lastmod>
+    <priority>0.4</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://penco.app/en/pricing/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://penco.app/pricing/"/>
+  </url>
+  <url>
+    <loc>https://penco.app/en/pricing/</loc>
+    <lastmod>2024-05-23T08:0:00+00:00</lastmod>
+    <priority>0.4</priority>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://penco.app/fr/pricing/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://penco.app/pricing/"/>
+  </url>
+  <url>
+    <loc>https://penco.app/fr/product/</loc>
+    <lastmod>2024-05-23T08:0:00+00:00</lastmod>
+    <priority>0.4</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://penco.app/en/product/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://penco.app/product/"/>
+  </url>
+  <url>
+    <loc>https://penco.app/en/product/</loc>
+    <lastmod>2024-05-23T08:0:00+00:00</lastmod>
+    <priority>0.6</priority>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://penco.app/fr/product/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://penco.app/product/"/>
+  </url>
+  <url>
+    <loc>https://penco.app/fr/resources/</loc>
+    <lastmod>2024-05-23T08:0:00+00:00</lastmod>
+    <priority>0.6</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://penco.app/en/resources/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://penco.app/resources/"/>
+  </url>
+  <url>
+    <loc>https://penco.app/en/resources/</loc>
+    <lastmod>2024-05-23T08:0:00+00:00</lastmod>
+    <priority>0.6</priority>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://penco.app/fr/resources/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://penco.app/resources/"/>
+  </url>
+  <url>
+    <loc>https://penco.app/fr/solutions/</loc>
+    <lastmod>2024-05-23T08:0:00+00:00</lastmod>
+    <priority>0.6</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://penco.app/en/solutions/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://penco.app/solutions/"/>
+  </url>
+  <url>
+    <loc>https://penco.app/en/solutions/</loc>
+    <lastmod>2024-05-23T08:0:00+00:00</lastmod>
+    <priority>0.6</priority>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://penco.app/fr/solutions/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://penco.app/solutions/"/>
+  </url>
+  <url>
+    <loc>https://penco.app/fr/thankyou/</loc>
+    <lastmod>2024-05-23T08:0:00+00:00</lastmod>
+    <priority>0.4</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://penco.app/en/thankyou/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://penco.app/thankyou/"/>
+  </url>
+  <url>
+    <loc>https://penco.app/en/thankyou/</loc>
+    <lastmod>2024-05-23T08:0:00+00:00</lastmod>
+    <priority>0.4</priority>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://penco.app/fr/thankyou/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://penco.app/thankyou/"/>
+  </url>
+  <url>
+    <loc>https://penco.app/fr/about/confidentiality/</loc>
+    <lastmod>2024-05-23T08:0:00+00:00</lastmod>
+    <priority>0.4</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://penco.app/en/about/confidentiality/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://penco.app/about/confidentiality/"/>
+  </url>
+  <url>
+    <loc>https://penco.app/en/about/confidentiality/</loc>
+    <lastmod>2024-05-23T08:0:00+00:00</lastmod>
+    <priority>0.4</priority>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://penco.app/fr/about/confidentiality/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://penco.app/about/confidentiality/"/>
+  </url>
+  <url>
+    <loc>https://penco.app/fr/about/cookies/</loc>
+    <lastmod>2024-05-23T08:0:00+00:00</lastmod>
+    <priority>0.4</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://penco.app/en/about/cookies/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://penco.app/about/cookies/"/>
+  </url>
+  <url>
+    <loc>https://penco.app/en/about/cookies/</loc>
+    <lastmod>2024-05-23T08:0:00+00:00</lastmod>
+    <priority>0.4</priority>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://penco.app/fr/about/cookies/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://penco.app/about/cookies/"/>
+  </url>
+  <url>
+    <loc>https://penco.app/fr/about/legal/</loc>
+    <lastmod>2024-05-23T08:0:00+00:00</lastmod>
+    <priority>0.4</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://penco.app/en/about/legal/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://penco.app/about/legal/"/>
+  </url>
+  <url>
+    <loc>https://penco.app/en/about/legal/</loc>
+    <lastmod>2024-05-23T08:0:00+00:00</lastmod>
+    <priority>0.4</priority>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://penco.app/fr/about/legal/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://penco.app/about/legal/"/>
+  </url>
+  <url>
+    <loc>https://penco.app/fr/about/security/</loc>
+    <lastmod>2024-05-23T08:0:00+00:00</lastmod>
+    <priority>0.4</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://penco.app/en/about/security/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://penco.app/about/security/"/>
+  </url>
+  <url>
+    <loc>https://penco.app/en/about/security/</loc>
+    <lastmod>2024-05-23T08:0:00+00:00</lastmod>
+    <priority>0.4</priority>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://penco.app/fr/about/security/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://penco.app/about/security/"/>
+  </url>
+  <url>
+    <loc>https://penco.app/fr/about/terms/</loc>
+    <lastmod>2024-05-23T08:0:00+00:00</lastmod>
+    <priority>0.4</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://penco.app/en/about/terms/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://penco.app/about/terms/"/>
+  </url>
+  <url>
+    <loc>https://penco.app/en/about/terms/</loc>
+    <lastmod>2024-05-23T08:0:00+00:00</lastmod>
+    <priority>0.4</priority>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://penco.app/fr/about/terms/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://penco.app/about/terms/"/>
+  </url>
+  <url>
+    <loc>https://penco.app/fr/follow/discord/</loc>
+    <lastmod>2024-05-23T08:0:00+00:00</lastmod>
+    <priority>0.4</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://penco.app/en/follow/discord/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://penco.app/follow/discord/"/>
+  </url>
+  <url>
+    <loc>https://penco.app/en/follow/discord/</loc>
+    <lastmod>2024-05-23T08:0:00+00:00</lastmod>
+    <priority>0.4</priority>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://penco.app/fr/follow/discord/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://penco.app/follow/discord/"/>
+  </url>
+  <!-- <url>
+    <loc>https://penco.app/fr/resources/blog/</loc>
+    <lastmod>2024-05-23T08:0:00+00:00</lastmod>
+    <priority>0.4</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://penco.app/en/resources/blog/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://penco.app/resources/blog/"/>
+  </url> -->
+  <!-- <url>
+    <loc>https://penco.app/en/resources/blog/</loc>
+    <lastmod>2024-05-23T08:0:00+00:00</lastmod>
+    <priority>0.7</priority>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://penco.app/fr/resources/blog/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://penco.app/resources/blog/"/>
+  </url> -->
+  <url>
+    <loc>https://penco.app/fr/resources/community/</loc>
+    <lastmod>2024-05-23T08:0:00+00:00</lastmod>
+    <priority>0.4</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://penco.app/en/resources/community/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://penco.app/resources/community/"/>
+  </url>
+  <url>
+    <loc>https://penco.app/en/resources/community/</loc>
+    <lastmod>2024-05-23T08:0:00+00:00</lastmod>
+    <priority>0.4</priority>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://penco.app/fr/resources/community/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://penco.app/resources/community/"/>
+  </url>
+  <url>
+    <loc>https://penco.app/fr/resources/help/</loc>
+    <lastmod>2024-05-23T08:0:00+00:00</lastmod>
+    <priority>0.4</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://penco.app/en/resources/help/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://penco.app/resources/help/"/>
+  </url>
+  <url>
+    <loc>https://penco.app/en/resources/help/</loc>
+    <lastmod>2024-05-23T08:0:00+00:00</lastmod>
+    <priority>0.4</priority>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://penco.app/fr/resources/help/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://penco.app/resources/help/"/>
+  </url>
+  <url>
+    <loc>https://penco.app/fr/resources/partners/</loc>
+    <lastmod>2024-05-23T08:0:00+00:00</lastmod>
+    <priority>0.4</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://penco.app/en/resources/partners/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://penco.app/resources/partners/"/>
+  </url>
+  <url>
+    <loc>https://penco.app/en/resources/partners/</loc>
+    <lastmod>2024-05-23T08:0:00+00:00</lastmod>
+    <priority>0.4</priority>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://penco.app/fr/resources/partners/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://penco.app/resources/partners/"/>
+  </url>
+  <url>
+    <loc>https://penco.app/fr/resources/partnership/</loc>
+    <lastmod>2024-05-23T08:0:00+00:00</lastmod>
+    <priority>0.4</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://penco.app/en/resources/partnership/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://penco.app/resources/partnership/"/>
+  </url>
+  <url>
+    <loc>https://penco.app/en/resources/partnership/</loc>
+    <lastmod>2024-05-23T08:0:00+00:00</lastmod>
+    <priority>0.4</priority>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://penco.app/fr/resources/partnership/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://penco.app/resources/partnership/"/>
+  </url>
+  <url>
+    <loc>https://penco.app/fr/solutions/teams/</loc>
+    <lastmod>2024-05-23T08:0:00+00:00</lastmod>
+    <priority>0.4</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://penco.app/en/solutions/teams/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://penco.app/solutions/teams/"/>
+  </url>
+  <url>
+    <loc>https://penco.app/en/solutions/teams/</loc>
+    <lastmod>2024-05-23T08:0:00+00:00</lastmod>
+    <priority>0.4</priority>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://penco.app/fr/solutions/teams/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://penco.app/solutions/teams/"/>
+  </url>
+  <url>
+    <loc>https://penco.app/fr/subscription/policies/</loc>
+    <lastmod>2024-05-23T08:0:00+00:00</lastmod>
+    <priority>0.4</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://penco.app/en/subscription/policies/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://penco.app/subscription/policies/"/>
+  </url>
+  <url>
+    <loc>https://penco.app/en/subscription/policies/</loc>
+    <lastmod>2024-05-23T08:0:00+00:00</lastmod>
+    <priority>0.4</priority>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://penco.app/fr/subscription/policies/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://penco.app/subscription/policies/"/>
+  </url>
+  <url>
+    <loc>https://penco.app/fr/subscription/terms/</loc>
+    <lastmod>2024-05-23T08:0:00+00:00</lastmod>
+    <priority>0.4</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://penco.app/en/subscription/terms/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://penco.app/subscription/terms/"/>
+  </url>
+  <url>
+    <loc>https://penco.app/en/subscription/terms/</loc>
+    <lastmod>2024-05-23T08:0:00+00:00</lastmod>
+    <priority>0.4</priority>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://penco.app/fr/subscription/terms/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://penco.app/subscription/terms/"/>
+  </url>
+  <url>
+    <loc>https://penco.app/fr/solutions/teams/hr/</loc>
+    <lastmod>2024-05-23T08:0:00+00:00</lastmod>
+    <priority>0.7</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://penco.app/en/solutions/teams/hr/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://penco.app/solutions/teams/hr/"/>
+  </url>
+  <url>
+    <loc>https://penco.app/en/solutions/teams/hr/</loc>
+    <lastmod>2024-05-23T08:0:00+00:00</lastmod>
+    <priority>0.7</priority>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://penco.app/fr/solutions/teams/hr/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://penco.app/solutions/teams/hr/"/>
+  </url>
+  <url>
+    <loc>https://penco.app/fr/solutions/teams/it/</loc>
+    <lastmod>2024-05-23T08:0:00+00:00</lastmod>
+    <priority>0.7</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://penco.app/en/solutions/teams/it/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://penco.app/solutions/teams/it/"/>
+  </url>
+  <url>
+    <loc>https://penco.app/en/solutions/teams/it/</loc>
+    <lastmod>2024-05-23T08:0:00+00:00</lastmod>
+    <priority>0.7</priority>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://penco.app/fr/solutions/teams/it/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://penco.app/solutions/teams/it/"/>
+  </url>
+  <url>
+    <loc>https://penco.app/fr/solutions/teams/operation/</loc>
+    <lastmod>2024-05-23T08:0:00+00:00</lastmod>
+    <priority>0.7</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://penco.app/en/solutions/teams/operation/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://penco.app/solutions/teams/operation/"/>
+  </url>
+  <url>
+    <loc>https://penco.app/en/solutions/teams/operation/</loc>
+    <lastmod>2024-05-23T08:0:00+00:00</lastmod>
+    <priority>0.7</priority>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://penco.app/fr/solutions/teams/operation/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://penco.app/solutions/teams/operation/"/>
+  </url>
+  <url>
+    <loc>https://penco.app/fr/solutions/teams/other/</loc>
+    <lastmod>2024-05-23T08:0:00+00:00</lastmod>
+    <priority>0.7</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://penco.app/en/solutions/teams/other/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://penco.app/solutions/teams/other/"/>
+  </url>
+  <url>
+    <loc>https://penco.app/en/solutions/teams/other/</loc>
+    <lastmod>2024-05-23T08:0:00+00:00</lastmod>
+    <priority>0.7</priority>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://penco.app/fr/solutions/teams/other/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://penco.app/solutions/teams/other/"/>
+  </url>
+  <url>
+    <loc>https://penco.app/fr/solutions/teams/project/</loc>
+    <lastmod>2024-05-23T08:0:00+00:00</lastmod>
+    <priority>0.7</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://penco.app/en/solutions/teams/project/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://penco.app/solutions/teams/project/"/>
+  </url>
+  <url>
+    <loc>https://penco.app/en/solutions/teams/project/</loc>
+    <lastmod>2024-05-23T08:0:00+00:00</lastmod>
+    <priority>0.7</priority>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://penco.app/fr/solutions/teams/project/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://penco.app/solutions/teams/project/"/>
+  </url>
+</urlset>
